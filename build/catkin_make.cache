@@ -1,0 +1,2 @@
+my_roborts_camera
+-DCATKIN_DEVEL_PREFIX=/home/xutao/fcg_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xutao/fcg_ws/install -G Unix Makefiles
